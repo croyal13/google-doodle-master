@@ -3,8 +3,18 @@
 @import 'google-homepage';
 
 // First Frame
-img {
+.guitar {
     transform: translateY(300px) translateX(-200px);
     height: 200px;
     
+}
+
+.jukebox {
+    transform: translateY(300px) translateX(-200px);
+    height: 105px;
+}
+
+.jeff {
+    transform: translateY(320px) translateX(-200px);
+    height: 150px;
 }
