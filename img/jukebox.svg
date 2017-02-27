@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="419.7px" height="418.7px" viewBox="0 0 419.7 418.7" style="enable-background:new 0 0 419.7 418.7;" xml:space="preserve"
+	>
 <style type="text/css">
 	.st0{fill:#D2232A;}
 	.st1{stroke:#000000;stroke-width:11;stroke-miterlimit:10;}
@@ -9,17 +10,17 @@
 	.st3{fill:none;stroke:#F7D85A;stroke-width:40;stroke-miterlimit:10;}
 	.st4{fill:#3DA7DB;stroke:#3DA7DB;stroke-width:5;stroke-miterlimit:10;}
 </style>
-<g id="Layer_1">
-	<circle class="st0" cx="305.9" cy="388.6" r="206.9"/>
-	<circle class="st1" cx="305.2" cy="387.7" r="127.8"/>
-	<polygon class="st2" points="278.5,259.9 393,368.9 306.6,388 197,284.3 	"/>
-	<polygon class="st2" points="307.5,388.6 421.1,497.1 340.2,521.3 224.4,411.5 	"/>
-	<circle class="st3" cx="305.2" cy="387.7" r="147.2"/>
+<g id="Layer_1_1_">
+	<circle class="st0" cx="209.8" cy="208.9" r="206.9"/>
+	<circle class="st1" cx="209.1" cy="208" r="127.8"/>
+	<polygon class="st2" points="182.4,80.2 296.9,189.2 210.5,208.3 100.9,104.6 	"/>
+	<polygon class="st2" points="211.4,208.9 325,317.4 244.1,341.6 128.3,231.8 	"/>
+	<circle class="st3" cx="209.1" cy="208" r="147.2"/>
 </g>
 <g id="Layer_2">
-	<path class="st4" d="M254,188.8c0,0,54.5-15.7,108,1.2l-18,76.4c0,0-40.1-11.9-72,0L254,188.8z"/>
-	<path class="st4" d="M254,589c0,0,54.5,16.2,108-1.2l-18-78.9c0,0-40.1,12.3-72,0L254,589z"/>
-	<path class="st4" d="M506.5,334.5c0,0,16.2,54.5-1.2,108l-78.7-18c0,0,12.2-40.1,0-72L506.5,334.5z"/>
-	<path class="st4" d="M105.3,334.5c0,0-15.8,54.5,1.2,108l76.8-18c0,0-11.9-40.1,0-72L105.3,334.5z"/>
+	<path class="st4" d="M157.9,9.1c0,0,54.5-15.7,108,1.2l-18,76.4c0,0-40.1-11.9-72,0L157.9,9.1z"/>
+	<path class="st4" d="M157.9,409.3c0,0,54.5,16.2,108-1.2l-18-78.9c0,0-40.1,12.3-72,0L157.9,409.3z"/>
+	<path class="st4" d="M410.4,154.8c0,0,16.2,54.5-1.2,108l-78.7-18c0,0,12.2-40.1,0-72L410.4,154.8z"/>
+	<path class="st4" d="M9.2,154.8c0,0-15.8,54.5,1.2,108l76.8-18c0,0-11.9-40.1,0-72L9.2,154.8z"/>
 </g>
 </svg>
