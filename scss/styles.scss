@@ -5,16 +5,22 @@
 // First Frame
 .guitar {
     transform: translateY(300px) translateX(-200px);
-    height: 200px;
+    height: 180px;
     
 }
 
 .jukebox {
     transform: translateY(300px) translateX(-200px);
-    height: 105px;
+    height: 85px;
 }
 
 .jeff {
-    transform: translateY(320px) translateX(-200px);
-    height: 150px;
+    transform: translateY(300px) translateX(-200px);
+    height: 120px;
 }
+
+.neon {
+    transform: translateY(300px) translateX(-200px);
+    height: 85px;
+}
+
