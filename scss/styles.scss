@@ -1,30 +1,37 @@
 // Grand Central Station
 
 @import 'google-homepage';
+body {
+    background: white;
+}
+
+.stage {
+    background: white;
+}
 
 // First Frame
 .guitar {
-    transform: translateY(425px) translateX(-200px);
+    transform: translateY(50px) translateX(-300px);
     height: 180px;
     
 }
 
 .jukebox {
-    transform: translateY(425px) translateX(-200px);
+    transform: translateY(50px) translateX(-300px);
     height: 85px;
 }
 
 .jeff {
-    transform: translateY(425px) translateX(-200px);
+    transform: translateY(-75px) translateX(110px);
     height: 120px;
 }
 
 .neon {
-    transform: translateY(425px) translateX(-200px);
+    transform: translateY(-90px) translateX(115px);
     height: 85px;
 }
 
 .le {
-    transform: translateY(340px) translateX(505px);
+    transform: translateY(-70px) translateX(120px);
     height: 140px;
 }
